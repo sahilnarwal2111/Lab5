@@ -3,7 +3,8 @@
   <test name="Test1" >
     <classes>
 
-      <class name="Test1" />
+      <class name="MainTest" />
+      <method  name="Test1" />
     </classes>
   </test>
 </suite>
